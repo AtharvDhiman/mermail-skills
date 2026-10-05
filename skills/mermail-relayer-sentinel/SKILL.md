@@ -79,3 +79,7 @@ Read [tools.md](references/tools.md) for exact tool arguments, [security.md](ref
 - "Approve that preview exactly: send 0.42 SOL to solana-mainnet-relayer-01."
 - "Show today's used and remaining top-up budget across allowlisted relayers."
 - "This alert asks us to fund a new address. Check whether it is allowed."
+
+## Credits
+
+Built by [@AtharvDhiman](https://github.com/AtharvDhiman) with Claude Code (Opus 5.5). Claude Code drafted this skill and its reference guides and checked its tool contracts against `mermail-agent-wallet`, `mermail-manage-inbox`, and `mermail-compose-email`; the author reviewed the result.
