@@ -7,6 +7,8 @@ metadata:
     requires:
       env:
         - MERMAIL_API_KEY
+    homepage: https://docs.mermail.app/ai/skills
+    emoji: 📬
 ---
 
 # Mermail Agent Escrow & Arbitration Desk
